@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophiaguu
-- 👀 I’m interested in pharmacology, statistics and bioinformatics. 
-- 🌱 I’m currently learning about clinical research during my co-op at BCCHR, as well as all things bioinformatics in this Github at Djavad Mowafaghian Centre for Brain Health.
+- 👀 I’m interested in pharmacology and statistics. 
+- 🌱 I’m currently in my last year at UBC. I've learned about research and development at the biotech company STEMCELL Technologies, clinical research during my co-op at BCCHR, as well as all things bioinformatics in this Github at Djavad Mowafaghian Centre for Brain Health.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: sophiaguu@gmail.com
 
